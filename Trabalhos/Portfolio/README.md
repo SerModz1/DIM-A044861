@@ -1,3 +1,5 @@
+https://www.figma.com/design/2sHk9GfXnjolVT1akKdcRh/C?node-id=36-666&t=xldXpLRwntfXvoI7-1
+
 Pagina Principal 
 
 <img width="466" height="777" alt="1" src="https://github.com/user-attachments/assets/51a54065-ba3a-41b2-b1d3-b71729b35b07" />
